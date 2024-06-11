@@ -1,9 +1,10 @@
 <?php
 /*
-Plugin Name: Custom Facebook Posts
+Plugin Name: FB Post Fetcher by CodeWooInsider
 Description: Fetches and displays Facebook posts using Graph API.
 Version: 1.1
-Author: Your Name
+Author: Urooj Shafait
+Company: CodeWooInsider
 */
 
 // Add shortcode to display Facebook posts
